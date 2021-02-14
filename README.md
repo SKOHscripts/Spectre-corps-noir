@@ -5,7 +5,7 @@ Un script Python qui permet de voir le spectre du corps noir à différentes tem
 
 ![Creative Commons](cc.png)
 
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 Le code prend utilise la formule de Planck et la constante de Stefan pour afficher la courbe du spectre d'émittance pour différentes températures que l'utilisateur peut changer. Cela permet de le confronter au spectre du visible.
 
