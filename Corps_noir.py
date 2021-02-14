@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-@file : Corps_noir - Corentin Michel.py
+@file : Corps_noir.py
 @brief : Montre l'emittance spectrale du corps noir pour différentes températures.
 
-@author : Corentin MICHEL
+@author : S+KOH
 '''
 
 import numpy as np
