@@ -11,4 +11,4 @@ Le code prend utilise la formule de Planck et la constante de Stefan pour affich
 
 SKOH
 
-![Corps Noir](Corps_noir.png)
+![Corps Noir](Corps_Noir.png)
