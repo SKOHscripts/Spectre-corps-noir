@@ -13,7 +13,8 @@ Le code prend utilise la formule de Planck et la constante de Stefan pour affich
 SKOH
 
 ![Corps Noir](Corps_Noir.png)
-``
+
+``` python
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
@@ -201,4 +202,4 @@ fig.savefig('Corps_Noir - Corentin MICHEL.png', bbox_inches='tight', dpi=300)
 
 # show the plot
 plt.show()
-``
+```
